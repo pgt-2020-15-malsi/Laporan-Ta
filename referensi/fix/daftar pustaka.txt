@@ -1,0 +1,45 @@
+HTML, Jquery, Mysql:
+Harison, H., & Syarif, A. (2016). Sistem Informasi Geografis Sarana Pada Kabupaten Pasaman Barat. Jurnal TeknoIf, 4(2).
+
+CSS, javascript, bootstrap, uml:
+Pahlevi, O., Mulyani, A., & Khoir, M. (2018). Sistem Informasi Inventori Barang Menggunakan Metode Object Oriented Di Pt. Livaza Teknologi Indonesia Jakarta. PROSISKO: Jurnal Pengembangan Riset dan Observasi Sistem Komputer, 5(1).
+
+Henderson, H. (2009). Encyclopedia of computer science and technology. Infobase Publishing.
+
+php:
+Februariyanti, H., & Zuliarso, E. (2012). Rancang bangun sistem perpustakaan untuk jurnal elektronik. Dinamik, 17(2).
+
+Kevin, Y. (2002). Build Your Own Database Driven Website Using PHP & MySQL, SitePoint Pty. Ltd, Australia.
+
+ajax:
+Sunyoto, A. (2010). AJAX (Asynchronus JavaScript and XML). Data Manajemen dan Teknologi Informasi (DASI), 11(3), 1.
+
+laravel:
+Firma Sahrul, B., Safi’ie, M. A., & WA, O. D. (2016). Implementasi Sistem Informasi Akademik Berbasis Web Menggunakan Framework Laravel. Jurnal Transformasi, 12(1).
+
+basis data:
+
+
+XAMPP, ERD:
+Fridayanthie, E. W., & Mahdiati, T. (2016). Rancang Bangun Sistem Informasi Permintaan Atk Berbasis Intranet (Studi Kasus: Kejaksaan Negeri Rangkasbitung). Jurnal khatulistiwa informatika, 4(2).
+
+curva s:
+Sutrisna, E. (2018). ANALISIS TIME SCHEDULE PROYEK PEMBANGUNAN GEDUNG VIP RSUD CIDERES KABUPATEN MAJALENGKA. PROCEEDING STIMA, 1(1).
+
+waterfall:
+Shalahuddin, M., & Rosa, A. S. (2013). Rekayasa perangkat lunak terstruktur dan berorientasi objek. Bandung: Informatika.
+
+uml:
+Pressman, R. S. (2010). Software Engineering-A Practitioner's Approach.
+
+bootstrap:
+Rozi, Z. A. (2015). Bootstrap Design Framework. Elex Media Komputindo.
+
+
+
+
+
+Rachman, A. N. (2018). SISTEM INFORMASI WISATA DI AMPERA WATERPARK. Jurnal Siliwangi Seri Sains dan Teknologi, 4(2).
+
+
+uml, basisdata half of piece
