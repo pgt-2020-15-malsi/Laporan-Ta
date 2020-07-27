@@ -17,8 +17,8 @@ Sunyoto, A. (2010). AJAX (Asynchronus JavaScript and XML). Data Manajemen dan Te
 laravel:
 Firma Sahrul, B., Safi’ie, M. A., & WA, O. D. (2016). Implementasi Sistem Informasi Akademik Berbasis Web Menggunakan Framework Laravel. Jurnal Transformasi, 12(1).
 
-basis data:
-
+basis data :
+Elmayati, E. (2016). APLIKASI UNIT KEGIATAN MAHASISWA (UKM) PADA STMIK MURA LUBUKLINGGAU BERBASIS WEB. Jurnal Teknologi Informasi MURA.
 
 XAMPP, ERD:
 Fridayanthie, E. W., & Mahdiati, T. (2016). Rancang Bangun Sistem Informasi Permintaan Atk Berbasis Intranet (Studi Kasus: Kejaksaan Negeri Rangkasbitung). Jurnal khatulistiwa informatika, 4(2).
